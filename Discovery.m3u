@@ -1,5 +1,6 @@
 
-#EXTINF:-1,Дискаврики
-https://edge03-alm.beetv.kz/bpk-token/4an@1v1xvdjyo5wouei2nakvrxplhko34n3i13isv4da/bpk-tv/000001496/tve/000001496-audio_82882_rus=82400-video=5287600.m3u8
+﻿#EXTM3U
+#EXTINF:-1,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 
 
